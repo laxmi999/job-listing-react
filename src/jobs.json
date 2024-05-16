@@ -83,6 +83,34 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
+    },
+    {
+      "id": "25a8",
+      "title": "React Dev",
+      "type": "Part-Time",
+      "location": "Non non distinctio ",
+      "description": "Consequat Et conseq",
+      "salary": "$175K - 200K",
+      "company": {
+        "name": "Odonnell Lindsey Co",
+        "description": "Ea saepe qui cum ven",
+        "contactEmail": "hogomotuc@mailinator.com",
+        "contactPhone": "+1 (306) 996-5817"
+      }
+    },
+    {
+      "id": "15b6",
+      "title": "Full Stack Developer",
+      "type": "Full-Time",
+      "location": "Beatae nostrud beata",
+      "description": "Non eius praesentium",
+      "salary": "$80K - 90K",
+      "company": {
+        "name": "Downs Coleman LLC",
+        "description": "Eiusmod dolores null",
+        "contactEmail": "laby@mailinator.com",
+        "contactPhone": "+1 (912) 984-2908"
+      }
     }
   ]
 }
